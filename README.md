@@ -3,17 +3,18 @@ Este é um chatbot básico desenvolvido para responder perguntas comuns de clien
 
 # Funcionalidades
 Responde a perguntas sobre:
-Vendas de produtos (notebooks, PCs, acessórios, etc.)
-Formas de pagamento aceitas (cartão de crédito, débito, PIX, boleto)
-Prazos de entrega
-Descontos para pagamento à vista
-Montagem e manutenção de PCs
-Garantia dos produtos
-Frete grátis e retirada em loja
-Política de trocas e devoluções
-Assistência técnica
-Componentes e acessórios para upgrade de PCs
-Exemplo de Interações:
+- Vendas de produtos (notebooks, PCs, acessórios, etc.)
+- Formas de pagamento aceitas (cartão de crédito, débito, PIX, boleto)
+- Prazos de entrega
+- Descontos para pagamento à vista
+- Montagem e manutenção de PCs
+- Garantia dos produtos
+- Frete grátis e retirada em loja
+- Política de trocas e devoluções
+- Assistência técnica
+- Componentes e acessórios para upgrade de PCs
+  
+# Exemplo de Interações:
 "Vocês vendem notebooks?"
 "Quais as formas de pagamento aceitas?"
 "Qual é o melhor processador para um PC de trabalho?"
