@@ -1,0 +1,71 @@
+Cliente: Olá! Vocês vendem notebooks?
+Chatbot: Sim, temos uma variedade de notebooks disponíveis. Gostaria de ajuda para escolher um modelo específico?
+Cliente: Quais as formas de pagamento aceitas?
+Chatbot: Aceitamos pagamentos com cartão de crédito, débito, PIX e boleto bancário. Para parcelamentos, há a possibilidade de dividir em até 12 vezes sem juros em compras com cartão.
+Cliente: O que preciso para montar um PC gamer?
+Chatbot: Para montar um PC gamer, você vai precisar de componentes como placa-mãe, processador, placa de vídeo, memória RAM, armazenamento, fonte de energia e um gabinete. Posso ajudar a selecionar as peças de acordo com seu orçamento e preferências?
+Cliente: Vocês fazem manutenção em computadores?
+Chatbot: Sim, oferecemos serviços de manutenção, que incluem limpeza interna, troca de peças, otimização de desempenho e muito mais. Qual problema você está enfrentando?
+Cliente: Vocês têm garantia nos produtos?
+Chatbot: Sim, todos os nossos produtos têm garantia. O tempo de garantia depende do fabricante e do tipo de produto, mas em média varia entre 6 e 12 meses.
+Cliente: Quanto tempo demora para o pedido chegar?
+Chatbot: O prazo de entrega varia conforme a sua localização e a forma de envio escolhida. Em geral, os envios levam de 3 a 10 dias úteis. Gostaria de verificar o prazo exato para o seu endereço?
+Cliente: Vocês oferecem desconto para pagamento à vista?
+Chatbot: Sim, em algumas ocasiões, oferecemos um desconto especial para pagamentos à vista via PIX ou boleto. Posso verificar se há um desconto aplicável ao produto que você está interessado?
+Cliente: Qual é o horário de funcionamento da loja?
+Chatbot: Nossa loja funciona de segunda a sexta, das 9h às 18h, e aos sábados, das 9h às 13h. Precisa de ajuda com algo específico?
+Cliente: Qual é o melhor processador para um PC de trabalho?
+Chatbot: Para atividades de trabalho que exigem multitarefa e desempenho, recomendo os processadores da linha Intel Core i5 ou AMD Ryzen 5 em diante. Posso sugerir alguns modelos conforme sua necessidade?
+Cliente: Vocês têm acessórios para computador, como mouses e teclados?
+Chatbot: Sim, temos diversos acessórios, como mouses, teclados, fones de ouvido e mais. Posso ajudar a escolher algum acessório específico?
+Cliente: Vocês têm frete grátis?
+Chatbot: Sim, oferecemos frete grátis para compras acima de um valor específico, que pode variar conforme sua localização. Posso verificar as condições para seu endereço?
+Cliente: Posso trocar um produto que comprei?
+Chatbot: Claro! Nossa política de trocas permite substituições dentro de 30 dias após a compra. Você tem o produto em mãos para verificarmos o procedimento?
+Cliente: Como posso rastrear meu pedido?
+Chatbot: Após a confirmação do envio, você receberá um código de rastreamento por e-mail. Com ele, poderá acompanhar a entrega diretamente pelo site da transportadora.
+Cliente: Vocês fazem montagem de PC?
+Chatbot: Sim, oferecemos o serviço de montagem de PCs personalizados. Podemos ajudar a montar de acordo com suas necessidades e especificações.
+Cliente: Vocês têm SSDs?
+Chatbot: Sim, temos uma variedade de SSDs disponíveis em diversas capacidades. Quer ajuda para escolher o mais adequado?
+Cliente: Quais marcas de notebook vocês têm?
+Chatbot: Trabalhamos com marcas como Dell, Lenovo, HP, Asus, e Acer. Gostaria de ver alguma marca específica?
+Cliente: Vocês têm garantia estendida?
+Chatbot: Sim, oferecemos a opção de garantia estendida para determinados produtos. Quer saber mais sobre as opções?
+Cliente: Posso retirar meu pedido na loja?
+Chatbot: Sim, temos a opção de retirada em loja para algumas compras. Verifique a disponibilidade no momento da compra ou me avise para eu confirmar.
+Cliente: Vocês parcelam no boleto?
+Chatbot: Infelizmente, o parcelamento é apenas para cartões de crédito. No boleto, temos opção de pagamento à vista.
+Cliente: Como posso cancelar um pedido?
+Chatbot: Se o pedido ainda não foi enviado, podemos cancelá-lo para você. Pode me informar o número do pedido?
+Cliente: Vocês têm webcam?
+Chatbot: Sim, temos webcams com diferentes resoluções e funcionalidades. Gostaria de ajuda para escolher uma?
+Cliente: Qual a diferença entre HD e SSD?
+Chatbot: O SSD é mais rápido e durável que o HD, pois usa memória flash. HDs têm mais espaço por um preço menor, mas são mais lentos. Posso sugerir opções?
+Cliente: Vocês oferecem assistência técnica?
+Chatbot: Sim, temos um setor de assistência técnica que pode ajudar em reparos e manutenção de equipamentos. Qual seria o problema?
+Cliente: Vocês têm fontes para PC?
+Chatbot: Sim, temos fontes de diferentes potências e marcas para atender sua necessidade. Quer ajuda para escolher uma?
+Cliente: Como é a política de devolução?
+Chatbot: Aceitamos devoluções em até 30 dias após a compra, desde que o produto esteja em perfeito estado. Precisa de ajuda para iniciar a devolução?
+Cliente: Vocês vendem peças para upgrade de computador?
+Chatbot: Sim, temos várias opções para upgrade, como memórias, processadores e SSDs. Quer ajuda para escolher algo específico?
+Cliente: Vocês fazem desconto para empresas?
+Chatbot: Sim, oferecemos condições especiais para compras corporativas. Quer mais informações sobre nossos pacotes para empresas?
+Cliente: Posso reservar um produto que está fora de estoque?
+Chatbot: Infelizmente, não temos a opção de reserva para produtos fora de estoque, mas posso informar quando o produto estiver disponível.
+Cliente: Vocês têm adaptadores de HDMI?
+Chatbot: Sim, temos adaptadores de HDMI para VGA, DisplayPort, e outras opções. Gostaria de mais detalhes?
+Cliente: Vocês têm antivírus?
+Chatbot: Sim, oferecemos licenças de antivírus para diferentes necessidades. Quer ajuda para escolher uma proteção ideal para seu uso?
+Cliente: vou mt bem e voce?
+Chatbot: eu vou bem tambem
+
+Cliente: eai
+Chatbot: ol�
+
+Cliente: ola
+Chatbot: ola
+
+Cliente: sim
+Chatbot: qual voc� tem em mente
